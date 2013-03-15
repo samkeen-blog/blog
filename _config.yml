@@ -1,7 +1,8 @@
 auto: true
 server: true
 permalink: none
-baseurl: "interop.io"
+baseurl: "/"
+url: http://interop.io
 exclude:
 - .gitignore
 - README.md
